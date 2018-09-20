@@ -1,0 +1,7 @@
+/*! Copyright Elasticsearch B.V. and/or license to Elasticsearch B.V. under one or more contributor license agreements
+ * Licensed under the Elastic License; you may not use this file except in compliance with the Elastic License. */
+.xpack-breadcrumbs {
+  min-height: 37px;
+  padding: 8px 10px;
+  margin: 0;
+}

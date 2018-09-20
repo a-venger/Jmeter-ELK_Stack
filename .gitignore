@@ -1,0 +1,12 @@
+# LogStash logs
+logstash/logs/*
+
+# Logs for parsing
+logs/*
+
+# FileBeat registry
+filebeat/data/registry
+filebeat/data/registry.old
+
+# ElasticSearch logs
+elasticsearch/logs/*
