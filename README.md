@@ -1,5 +1,5 @@
 # Prerequisites
-To run this project you need to have [Java](https://java.com/ru/download/) on your computer.
+To run this project you need to have [Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) on your computer.
 
 You can simply check if Java is installed on your computer by typing ```java -version``` in command line
 ## Run shared Performance QA Framework
